@@ -7,7 +7,7 @@ The repository hosts two files related to the project:
 * run_analysis.R script
 * CodeBook.md document
 
-The "run_analysis.R"" script is used to create a didy data set out of the two data sets
+The "run_analysis.R"" script is used to create a tidy data set out of the two data sets
 with a number of Smartphones accelerometer and gyroscope sensors 
 signals by appropriately grouping the data, assigning names to the activities
 and creating descriptive column names. The resulting tidy data set contains
